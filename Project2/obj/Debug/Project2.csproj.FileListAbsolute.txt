@@ -1,0 +1,30 @@
+C:\Users\patoc\source\repos\Project2\Project2\bin\Debug\Project2.exe.config
+C:\Users\patoc\source\repos\Project2\Project2\bin\Debug\Project2.exe
+C:\Users\patoc\source\repos\Project2\Project2\bin\Debug\Project2.pdb
+C:\Users\patoc\source\repos\Project2\Project2\obj\Debug\Project2.csprojAssemblyReference.cache
+C:\Users\patoc\source\repos\Project2\Project2\obj\Debug\Project2.Form1.resources
+C:\Users\patoc\source\repos\Project2\Project2\obj\Debug\Project2.Properties.Resources.resources
+C:\Users\patoc\source\repos\Project2\Project2\obj\Debug\Project2.csproj.GenerateResource.cache
+C:\Users\patoc\source\repos\Project2\Project2\obj\Debug\Project2.csproj.CoreCompileInputs.cache
+C:\Users\patoc\source\repos\Project2\Project2\obj\Debug\Project2.exe
+C:\Users\patoc\source\repos\Project2\Project2\obj\Debug\Project2.pdb
+C:\Users\patoc\Desktop\Project2\Project2\bin\Debug\Project2.exe.config
+C:\Users\patoc\Desktop\Project2\Project2\bin\Debug\Project2.exe
+C:\Users\patoc\Desktop\Project2\Project2\bin\Debug\Project2.pdb
+C:\Users\patoc\Desktop\Project2\Project2\obj\Debug\Project2.csprojAssemblyReference.cache
+C:\Users\patoc\Desktop\Project2\Project2\obj\Debug\Project2.Form1.resources
+C:\Users\patoc\Desktop\Project2\Project2\obj\Debug\Project2.Properties.Resources.resources
+C:\Users\patoc\Desktop\Project2\Project2\obj\Debug\Project2.csproj.GenerateResource.cache
+C:\Users\patoc\Desktop\Project2\Project2\obj\Debug\Project2.csproj.CoreCompileInputs.cache
+C:\Users\patoc\Desktop\Project2\Project2\obj\Debug\Project2.exe
+C:\Users\patoc\Desktop\Project2\Project2\obj\Debug\Project2.pdb
+C:\Users\patoc\Desktop\Patrick's\CS 480\P3_Both_oconne16\CS_480_Proj3_oconne16\Project_3\Project2\bin\Debug\Project2.exe.config
+C:\Users\patoc\Desktop\Patrick's\CS 480\P3_Both_oconne16\CS_480_Proj3_oconne16\Project_3\Project2\bin\Debug\Project2.exe
+C:\Users\patoc\Desktop\Patrick's\CS 480\P3_Both_oconne16\CS_480_Proj3_oconne16\Project_3\Project2\bin\Debug\Project2.pdb
+C:\Users\patoc\Desktop\Patrick's\CS 480\P3_Both_oconne16\CS_480_Proj3_oconne16\Project_3\Project2\obj\Debug\Project2.csprojAssemblyReference.cache
+C:\Users\patoc\Desktop\Patrick's\CS 480\P3_Both_oconne16\CS_480_Proj3_oconne16\Project_3\Project2\obj\Debug\Project2.Form1.resources
+C:\Users\patoc\Desktop\Patrick's\CS 480\P3_Both_oconne16\CS_480_Proj3_oconne16\Project_3\Project2\obj\Debug\Project2.Properties.Resources.resources
+C:\Users\patoc\Desktop\Patrick's\CS 480\P3_Both_oconne16\CS_480_Proj3_oconne16\Project_3\Project2\obj\Debug\Project2.csproj.GenerateResource.cache
+C:\Users\patoc\Desktop\Patrick's\CS 480\P3_Both_oconne16\CS_480_Proj3_oconne16\Project_3\Project2\obj\Debug\Project2.csproj.CoreCompileInputs.cache
+C:\Users\patoc\Desktop\Patrick's\CS 480\P3_Both_oconne16\CS_480_Proj3_oconne16\Project_3\Project2\obj\Debug\Project2.exe
+C:\Users\patoc\Desktop\Patrick's\CS 480\P3_Both_oconne16\CS_480_Proj3_oconne16\Project_3\Project2\obj\Debug\Project2.pdb
